@@ -1,4 +1,4 @@
-# BusStands-On-CycleRoutes-in-SG
+# BusStands-On-CycleRoutes-in-Singapore
 
 Provide a list in CSV of bus stand names, latitude and longitude. Then provide a list in CSV of routes line strings, name, description
 See Example files in the repo.
