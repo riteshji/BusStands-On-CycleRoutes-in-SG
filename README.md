@@ -50,6 +50,4 @@ For each cycle route, the script finds the locations that are within the route b
 10. **Write output to CSV file:**
 Finally, the script writes the output DataFrame to a CSV file. Each row in the file represents a location that is within a route, along with the name of the route.
 
-The script is designed to be flexible and easily adaptable to different data structures and requirements. It demonstrates the use of Python for geospatial analysis using `pandas`, `geopandas`, and `shapely`.
-
-I hope this gives you a clear understanding of the script. Let me know if you have any further questions.
+The script is designed to be flexible and easily adaptable to different data structures and requirements.
